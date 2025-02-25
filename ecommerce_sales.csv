@@ -1,0 +1,101 @@
+Order ID,Date,Customer ID,Product Category,Product Name,Quantity,Price per Unit,Total Sales,Payment Method,Order Status
+ORD1000,2024-02-03,CUST707,Electronics,Smartphone,3,60.05,180.15,Credit Card,Cancelled
+ORD1001,2024-01-06,CUST727,Home & Kitchen,Vacuum Cleaner,5,230.61,1153.05,Gift Card,Pending
+ORD1002,2024-01-18,CUST396,Beauty,Foundation,4,16.99,67.96,Debit Card,Pending
+ORD1003,2024-01-18,CUST924,Clothing,Jacket,3,368.99,1106.97,Gift Card,Delivered
+ORD1004,2024-01-29,CUST758,Clothing,Jacket,2,472.34,944.68,Gift Card,Cancelled
+ORD1005,2024-02-21,CUST330,Electronics,Smartphone,2,304.02,608.04,Debit Card,Pending
+ORD1006,2024-01-25,CUST406,Home & Kitchen,Toaster,2,382.95,765.9,Gift Card,Cancelled
+ORD1007,2024-01-11,CUST791,Books,Self-Help,5,418.55,2092.75,Credit Card,Delivered
+ORD1008,2024-01-26,CUST873,Home & Kitchen,Microwave,3,385.43,1156.29,Gift Card,Pending
+ORD1009,2024-01-13,CUST675,Books,Science,4,45.13,180.52,Debit Card,Delivered
+ORD1010,2024-02-01,CUST449,Clothing,T-Shirt,1,447.59,447.59,Gift Card,Delivered
+ORD1011,2024-01-23,CUST527,Toys,Puzzle,1,362.43,362.43,PayPal,Shipped
+ORD1012,2024-02-08,CUST381,Beauty,Lipstick,4,65.63,262.52,Debit Card,Delivered
+ORD1013,2024-02-20,CUST363,Toys,Lego Set,2,267.98,535.96,Gift Card,Pending
+ORD1014,2024-02-29,CUST601,Home & Kitchen,Blender,5,125.45,627.25,Debit Card,Cancelled
+ORD1015,2024-01-15,CUST336,Clothing,Jacket,3,266.0,798.0,PayPal,Pending
+ORD1016,2024-02-11,CUST986,Beauty,Lipstick,1,325.01,325.01,Debit Card,Pending
+ORD1017,2024-02-08,CUST115,Clothing,T-Shirt,5,123.16,615.8,Credit Card,Delivered
+ORD1018,2024-02-28,CUST987,Beauty,Foundation,5,481.47,2407.35,Debit Card,Pending
+ORD1019,2024-02-29,CUST169,Toys,Puzzle,3,439.85,1319.55,PayPal,Pending
+ORD1020,2024-02-16,CUST590,Beauty,Lipstick,1,350.8,350.8,Debit Card,Cancelled
+ORD1021,2024-02-23,CUST754,Electronics,Tablet,1,336.07,336.07,Gift Card,Pending
+ORD1022,2024-01-19,CUST246,Clothing,Jeans,4,199.63,798.52,PayPal,Cancelled
+ORD1023,2024-02-20,CUST439,Home & Kitchen,Microwave,5,430.08,2150.4,Debit Card,Cancelled
+ORD1024,2024-01-01,CUST411,Books,Fiction,4,341.15,1364.6,PayPal,Pending
+ORD1025,2024-01-26,CUST367,Clothing,Sweater,2,319.4,638.8,Debit Card,Shipped
+ORD1026,2024-01-14,CUST233,Toys,Lego Set,5,10.31,51.55,Debit Card,Shipped
+ORD1027,2024-01-24,CUST964,Books,Science,2,349.1,698.2,Gift Card,Pending
+ORD1028,2024-01-11,CUST226,Beauty,Moisturizer,1,424.27,424.27,Credit Card,Pending
+ORD1029,2024-02-06,CUST947,Beauty,Shampoo,1,490.45,490.45,PayPal,Pending
+ORD1030,2024-02-15,CUST788,Toys,Action Figure,3,129.48,388.44,Gift Card,Shipped
+ORD1031,2024-02-12,CUST455,Toys,Lego Set,2,287.15,574.3,Debit Card,Shipped
+ORD1032,2024-02-24,CUST228,Clothing,Dress,2,306.79,613.58,Gift Card,Delivered
+ORD1033,2024-01-03,CUST859,Toys,Lego Set,5,47.19,235.95,Credit Card,Delivered
+ORD1034,2024-01-04,CUST570,Beauty,Perfume,4,424.44,1697.76,Debit Card,Delivered
+ORD1035,2024-01-16,CUST873,Toys,Board Game,2,48.59,97.18,PayPal,Pending
+ORD1036,2024-01-22,CUST897,Books,Science,1,191.89,191.89,PayPal,Delivered
+ORD1037,2024-02-12,CUST987,Beauty,Lipstick,1,385.49,385.49,PayPal,Shipped
+ORD1038,2024-01-05,CUST585,Toys,Puzzle,3,378.95,1136.85,PayPal,Delivered
+ORD1039,2024-02-28,CUST270,Home & Kitchen,Vacuum Cleaner,1,150.31,150.31,Debit Card,Cancelled
+ORD1040,2024-01-05,CUST474,Home & Kitchen,Microwave,5,130.62,653.1,Credit Card,Pending
+ORD1041,2024-02-05,CUST195,Books,Self-Help,5,423.48,2117.4,PayPal,Cancelled
+ORD1042,2024-02-25,CUST141,Beauty,Perfume,5,299.66,1498.3,Credit Card,Delivered
+ORD1043,2024-01-23,CUST253,Beauty,Lipstick,5,326.05,1630.25,Gift Card,Pending
+ORD1044,2024-02-24,CUST258,Electronics,Tablet,3,126.14,378.42,Gift Card,Cancelled
+ORD1045,2024-01-02,CUST573,Beauty,Shampoo,3,439.08,1317.24,Debit Card,Shipped
+ORD1046,2024-01-01,CUST203,Electronics,Smartwatch,5,170.0,850.0,Debit Card,Pending
+ORD1047,2024-02-17,CUST133,Electronics,Smartwatch,2,495.71,991.42,Credit Card,Cancelled
+ORD1048,2024-01-19,CUST776,Electronics,Smartwatch,1,202.35,202.35,Gift Card,Delivered
+ORD1049,2024-02-07,CUST286,Beauty,Perfume,4,390.28,1561.12,Debit Card,Pending
+ORD1050,2024-02-13,CUST851,Books,Mystery,4,150.96,603.84,Credit Card,Shipped
+ORD1051,2024-02-09,CUST832,Electronics,Headphones,1,395.85,395.85,Gift Card,Pending
+ORD1052,2024-01-03,CUST413,Electronics,Smartphone,2,465.3,930.6,Credit Card,Shipped
+ORD1053,2024-01-29,CUST219,Clothing,Dress,3,340.94,1022.82,Debit Card,Pending
+ORD1054,2024-01-31,CUST146,Toys,Lego Set,4,302.28,1209.12,Gift Card,Pending
+ORD1055,2024-01-05,CUST385,Home & Kitchen,Coffee Maker,2,69.96,139.92,Gift Card,Delivered
+ORD1056,2024-02-05,CUST137,Beauty,Lipstick,1,39.98,39.98,Gift Card,Delivered
+ORD1057,2024-01-24,CUST253,Beauty,Shampoo,1,181.75,181.75,Credit Card,Cancelled
+ORD1058,2024-02-19,CUST742,Clothing,Dress,2,88.43,176.86,Credit Card,Shipped
+ORD1059,2024-02-10,CUST727,Electronics,Tablet,1,460.54,460.54,Credit Card,Shipped
+ORD1060,2024-02-29,CUST290,Clothing,Jeans,3,357.57,1072.71,PayPal,Shipped
+ORD1061,2024-01-28,CUST817,Electronics,Tablet,4,44.51,178.04,Debit Card,Cancelled
+ORD1062,2024-01-07,CUST770,Clothing,Dress,2,88.42,176.84,Credit Card,Pending
+ORD1063,2024-02-28,CUST555,Home & Kitchen,Coffee Maker,2,413.44,826.88,Debit Card,Cancelled
+ORD1064,2024-02-11,CUST156,Electronics,Headphones,1,299.46,299.46,PayPal,Shipped
+ORD1065,2024-02-15,CUST937,Toys,Board Game,4,79.46,317.84,PayPal,Shipped
+ORD1066,2024-02-24,CUST724,Toys,Doll,5,229.87,1149.35,Debit Card,Cancelled
+ORD1067,2024-02-25,CUST389,Home & Kitchen,Microwave,3,237.39,712.17,Debit Card,Shipped
+ORD1068,2024-01-01,CUST282,Beauty,Shampoo,3,394.39,1183.17,Debit Card,Shipped
+ORD1069,2024-02-07,CUST466,Home & Kitchen,Blender,4,115.89,463.56,Gift Card,Pending
+ORD1070,2024-02-07,CUST726,Beauty,Lipstick,2,223.61,447.22,Gift Card,Cancelled
+ORD1071,2024-02-15,CUST894,Clothing,Jacket,3,491.84,1475.52,Gift Card,Pending
+ORD1072,2024-02-03,CUST234,Electronics,Laptop,3,385.38,1156.14,Credit Card,Cancelled
+ORD1073,2024-02-22,CUST719,Toys,Board Game,1,27.48,27.48,Gift Card,Shipped
+ORD1074,2024-01-07,CUST379,Home & Kitchen,Microwave,3,95.81,287.43,PayPal,Pending
+ORD1075,2024-01-04,CUST493,Clothing,Jeans,5,218.96,1094.8,Gift Card,Shipped
+ORD1076,2024-03-01,CUST808,Books,Science,3,451.81,1355.43,Debit Card,Delivered
+ORD1077,2024-01-07,CUST119,Clothing,Sweater,3,85.13,255.39,Debit Card,Cancelled
+ORD1078,2024-02-09,CUST780,Home & Kitchen,Blender,2,246.18,492.36,Credit Card,Shipped
+ORD1079,2024-02-22,CUST322,Toys,Lego Set,2,228.06,456.12,Debit Card,Pending
+ORD1080,2024-01-30,CUST644,Electronics,Laptop,3,133.76,401.28,Credit Card,Delivered
+ORD1081,2024-01-03,CUST729,Toys,Lego Set,5,329.92,1649.6,Credit Card,Cancelled
+ORD1082,2024-01-30,CUST401,Books,Non-Fiction,4,350.45,1401.8,Credit Card,Pending
+ORD1083,2024-01-16,CUST502,Home & Kitchen,Microwave,3,282.19,846.57,Gift Card,Cancelled
+ORD1084,2024-01-09,CUST730,Electronics,Laptop,4,113.3,453.2,Debit Card,Cancelled
+ORD1085,2024-01-12,CUST347,Home & Kitchen,Toaster,1,155.81,155.81,Debit Card,Shipped
+ORD1086,2024-02-18,CUST156,Beauty,Moisturizer,5,339.74,1698.7,Gift Card,Delivered
+ORD1087,2024-01-10,CUST706,Toys,Board Game,2,24.45,48.9,Credit Card,Shipped
+ORD1088,2024-02-24,CUST187,Toys,Lego Set,5,60.13,300.65,Credit Card,Pending
+ORD1089,2024-02-16,CUST198,Books,Fiction,5,453.36,2266.8,Gift Card,Cancelled
+ORD1090,2024-02-13,CUST233,Clothing,Jeans,5,161.47,807.35,PayPal,Shipped
+ORD1091,2024-01-08,CUST948,Electronics,Smartphone,5,205.46,1027.3,Debit Card,Delivered
+ORD1092,2024-02-27,CUST554,Electronics,Headphones,3,33.01,99.03,Gift Card,Shipped
+ORD1093,2024-02-06,CUST682,Toys,Board Game,4,257.85,1031.4,Gift Card,Delivered
+ORD1094,2024-01-02,CUST939,Home & Kitchen,Microwave,4,28.28,113.12,PayPal,Delivered
+ORD1095,2024-02-05,CUST940,Toys,Board Game,4,329.91,1319.64,PayPal,Pending
+ORD1096,2024-02-23,CUST199,Electronics,Smartwatch,3,66.52,199.56,PayPal,Shipped
+ORD1097,2024-02-14,CUST668,Toys,Lego Set,4,324.51,1298.04,Credit Card,Pending
+ORD1098,2024-01-03,CUST451,Clothing,Dress,2,184.53,369.06,Gift Card,Shipped
+ORD1099,2024-01-20,CUST549,Clothing,Jacket,4,66.1,264.4,PayPal,Delivered
